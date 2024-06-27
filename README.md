@@ -1,8 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 
+![Azamat's github stats](https://github-readme-stats-eight-blond-58.vercel.app/api?username=zju1&count_private=true&show_icons=true&theme=dracula)
+
+## Follow me on [@zju01](https://www.linkedin.com/in/zju01/)
 <!--
-**zju1/zju1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
